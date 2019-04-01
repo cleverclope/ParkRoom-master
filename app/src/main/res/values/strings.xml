@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParkRoom</string>
+    <string name="title_activity_nearest_parking">NearestParking</string>
+    <string name="tab_text_1">OneTime</string>
+    <string name="tab_text_2">Weekely</string>
+    <string name="tab_text_3">VIp</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">One Time Parking: %1$d</string>
+</resources>

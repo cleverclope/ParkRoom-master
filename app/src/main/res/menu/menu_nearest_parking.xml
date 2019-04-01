@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.clope.parkroom.NearestParking">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/parking"
+        android:orderInCategory="100"
+        android:title="Parking"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/motor"
+        android:orderInCategory="100"
+        android:title="Motor cars"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/trairers"
+        android:orderInCategory="100"
+        android:title="Trailers"
+        app:showAsAction="never" />
+</menu>
